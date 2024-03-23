@@ -7,7 +7,7 @@ import '../App.css';
 const Hero = () => {
   return (
   <>
-  <section>
+  <section className='ct-section'>
     <div className="main-div">
       <div id="left-hero">
         <p  id='p1' className='text-25'>DIGITAL BANKING</p>

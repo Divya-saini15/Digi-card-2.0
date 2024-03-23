@@ -43,12 +43,12 @@
 }
 
 section{  
-  width: 1364px;
+  /* width: 1364px;
   width: 1364px;
   margin: 0 auto; 
-  /* max-width:1364px;
-  min-width: 1364px; */
-  background-color:black;
+  max-width:1364px;
+  min-width: 1364px; 
+  background-color:black; */
 }
 
 .text-65 {

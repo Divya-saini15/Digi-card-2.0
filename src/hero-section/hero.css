@@ -59,8 +59,20 @@
 
   }
  .ct-section{
-  width:1364px;
- }
+
+  /* background-image: url("../../public/linebg2.png"); */
+  background-color: #000;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* transition: background 0.3s, border-radius 0.3s, opacity 0.3s; */
+  align-items:center ;
+  width:100vw;
+  /* max-width: 1364px; */
+  display: flex;
+  flex-direction: row;
+
+}
+ 
 
 #p1{
   color:#7aa727;
@@ -86,7 +98,7 @@ position: absolute;
   transform: scale(1.5); /* Increase the size by 50% when the class 'enlarged' is added */
 }
 
-#card1{
+#card1{  
   top:-200px;
   z-index: 3;
 }
